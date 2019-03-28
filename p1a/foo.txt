@@ -1,0 +1,7 @@
+foo.txt
+foo.txtaaa
+aaafoo.txtaaa
+aaafoo.txt
+""aaa
+aaa""aaa
+aaa""

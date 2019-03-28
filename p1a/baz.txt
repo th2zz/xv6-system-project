@@ -1,0 +1,6 @@
+foo.txt
+bar.txt
+foo.txt bar.txt
+bar.txt foo.txt
+bar.txt foo.txt bar.txt
+
